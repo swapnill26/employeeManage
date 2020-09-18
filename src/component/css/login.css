@@ -1,0 +1,17 @@
+
+.login{
+    background-image: url('../images/login2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:  71vh;
+
+    color: white;
+    font-family: "roboto";
+    font-size: 20px;
+}
+.title{
+    text-align: center;
+    
+
+}

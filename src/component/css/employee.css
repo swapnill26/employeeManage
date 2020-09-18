@@ -1,0 +1,81 @@
+#popup-2{
+    position: absolute;
+    z-index: 999;
+    pointer-events: auto;
+    top: 10px;
+    left: 120px;
+}
+@media only screen and (min-width: 1900px){
+    .table{
+        table-layout: fixed;
+        
+    }
+    .popup-content{
+        position: absolute;
+        z-index: 999;
+        pointer-events: auto;
+        top: 10px;
+        left: 120px;
+    }
+}
+@media only screen and (max-width: 1024px){
+    .table{
+        table-layout: fixed;
+    }
+}
+@media only screen and (max-width: 896px){
+    .table{
+        table-layout: fixed;
+    }
+}
+@media only screen and (max-width: 767px){
+    .table{
+        table-layout: fixed;
+        font-size:10px;
+    }
+    .popup-content{
+        position: absolute;
+        z-index: 999;
+        pointer-events: auto;
+        top: 10px;
+        left: 120px;
+    }
+}
+@media only screen and (width: 568px){
+    .table{
+        table-layout: fixed;
+    }
+    .popup-content{
+        position: absolute;
+        z-index: 999;
+        pointer-events: auto;
+        top: 10px;
+        left: 120px;
+    }
+}
+@media only screen and (max-width: 480px){
+    .table{
+        table-layout: fixed;
+        font-size:7px;
+    }
+    .popup-content{
+        position: absolute;
+        z-index: 999;
+        pointer-events: auto;
+        top: 10px;
+        left: 120px;
+    }
+}
+@media only screen and (max-width: 320px){
+    .table{
+        table-layout: fixed;
+        font-size:7px;
+    }
+    .popup-content{
+        position: absolute;
+        z-index: 999;
+        pointer-events: auto;
+        top: 10px;
+        left: 120px;
+    }
+}
